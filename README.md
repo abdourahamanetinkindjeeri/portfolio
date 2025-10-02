@@ -11,7 +11,7 @@ Développeur Full Stack passionné, spécialisé dans la création d’applicati
 - **Téléphone** : +221 77 270 70 50  
 - **Email** : abdourahamanetinkindjeeri99@gmail.com  
 - **GitHub** : [abdourahamanetinkindjeeri](https://github.com/abdourahamanetinkindjeeri)  
-- **LinkedIn** : [abdourahamanetinkindjeeri](https://www.linkedin.com/in/abdourahamanetinkindjeeri/)
+- **LinkedIn** : [abdourahamanetinkindjeeri](https://www.linkedin.com/in/abdourahamane-diallo-3075b428a)
 
 ## 🚀 Projets phares
 

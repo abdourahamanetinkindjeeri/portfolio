@@ -4,26 +4,16 @@ import  defaultCover from '../assets/default.jpg'
 
 const featuredProjects = [
   {
-    title: "Gestion des locations étudiantes – CampusLoc",
-    description:
-      "Projet de fin de Master 1 : Application web (Spring Boot, ReactJS, PostgreSQL) facilitant l’accès au logement étudiant via une plateforme centralisée d’offres.",
-    link: "/projets/campusloc",
-    tags: ["React", "Spring Boot", "PostgreSQL"],
+    title: "Gestion de Paiements Multi-tenant",
+    description: "Application web de gestion des salaires et paiements multi-entreprises (architecture multi-tenant). Backend Node.js/Express & PostgreSQL, frontend React.js & Tailwind CSS.",
+    link: "",
+    tags: ["Node.js", "Express", "PostgreSQL", "React.js", "Tailwind CSS"],
   },
   {
-    title: "Inscriptions pédagogiques",
-    description:
-      "Développement d’une application de gestion des inscriptions avec Java & Swing, simplifiant et automatisant le parcours étudiant.",
-    link: "/projets/inscriptions",
-    tags: ["Java", "Swing"],
-  },
-  {
-    title: "API de réservation",
-    description:
-      "Conception d'une API REST pour la gestion des ressources informatiques, permettant la réservation et le suivi (Spring Boot).",
-    link: "/projets/api-reservation",
-    cover: defaultCover,
-    tags: ["Spring Boot", "REST API"],
+    title: "GestionEvent",
+    description: "Plateforme permettant de gérer l'organisation d'un événement via le recrutement de prestataires ou autres services.",
+    link: "",
+    tags: ["Spring Boot", "React.js", "MySQL", "Pattern MVC"],
   },
 ];
 

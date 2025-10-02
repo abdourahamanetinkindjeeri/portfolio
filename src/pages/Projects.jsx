@@ -9,22 +9,23 @@ function getImageOrDefault(image) {
 
 // Liste des projets
 const projects = [
-  {
-    title: "API – Gestion des Apprenants",
-    description: "API RESTful développée en TypeScript avec Express, Prisma, Zod et MySQL pour gérer apprenants, promotions, profils, compétences, référentiels, tags et niveaux dans un projet de gestion de formation. L’objectif est de proposer une API maintenable, modulaire et extensible.",
-    image: "",
-    tech: ["TypeScript", "Express", "Prisma", "Zod", "MySQL"],
-    architecture: "RESTful, modulaire",
-    github: "",
-    demo: "",
-    detailsLink: "",
-  },
+  
   
   {
     title: "Gestion de Paiements Multi-tenant",
     description: "Application web de gestion des salaires et paiements multi-entreprises (architecture multi-tenant). Backend Node.js/Express & PostgreSQL, frontend React.js & Tailwind CSS.",
     image: "",
     tech: ["Node.js", "Express", "PostgreSQL", "React.js", "Tailwind CSS"],
+    github: "",
+    demo: "",
+    detailsLink: "",
+  },
+  {
+    title: "API – Gestion des Apprenants",
+    description: "API RESTful développée en TypeScript avec Express, Prisma, Zod et MySQL pour gérer apprenants, promotions, profils, compétences, référentiels, tags et niveaux dans un projet de gestion de formation. L’objectif est de proposer une API maintenable, modulaire et extensible.",
+    image: "",
+    tech: ["TypeScript", "Express", "Prisma", "Zod", "MySQL"],
+    architecture: "RESTful, modulaire",
     github: "",
     demo: "",
     detailsLink: "",
