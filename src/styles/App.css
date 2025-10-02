@@ -1,0 +1,20 @@
+/* full height pour le body et html */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  color: var(--white-color);
+}
+
+/* layout général */
+.layout {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* pousse le footer vers le bas */
+main {
+  flex-grow: 1;
+}

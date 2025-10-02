@@ -1,0 +1,10 @@
+@import url("./variables.css");
+
+.liens h3, .liens a{
+    color: var(--color-dark);
+}
+
+.liens a{
+    text-decoration: none;
+    color: var(--color-dark);
+}

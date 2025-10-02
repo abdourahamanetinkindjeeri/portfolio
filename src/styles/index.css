@@ -1,0 +1,8 @@
+@import url('./variables.css');
+
+body{
+  display: flex;
+  flex-direction: column;
+  flex: 0;
+}
+@import "tailwindcss";

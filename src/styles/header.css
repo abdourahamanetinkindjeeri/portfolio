@@ -1,0 +1,41 @@
+@import url("./variables.css");
+.logo-text{
+  text-decoration : none;
+  font-family: var(--font-logo);
+  font-size: 2rem;
+  opacity: .9;
+}
+
+
+.links {
+  color: var(--color-text);
+  font-family: var(--font-main);
+  transition: all 0.3s ease;
+  position: relative;
+  text-decoration: none;
+}
+
+.links:hover {
+  color: var(--color-primary-hover);
+}
+
+/* Classe active appliquée automatiquement par NavLink */
+.links.active {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+/* Underline animation */
+.links span {
+  transform-origin: left;
+}
+
+.links.active span {
+  transform: scaleX(1);
+}
+
+
+
+
+
+
