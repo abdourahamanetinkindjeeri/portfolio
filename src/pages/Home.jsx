@@ -10,7 +10,7 @@ export default function HomePage() {
       <MainHero/>
       <Stack/>
       <FeaturedProjects/>
-      {/* <Certifications/> */}
+      <Certifications/>
     </main>
   );
 }
