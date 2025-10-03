@@ -2,27 +2,27 @@ import { Award, ExternalLink, CheckCircle } from "lucide-react";
 import { useState } from "react";
 
 const certifications = [
-  {
-    title: "Front End Development Libraries",
-    issuer: "freeCodeCamp",
-    date: "2025",
-    link: "https://www.freecodecamp.org/certification/eadarak/front-end-development-libraries",
-    skills: ["React", "Bootstrap"],
-  },
-  {
-    title: "JavaScript Algorithms and Data Structures",
-    issuer: "freeCodeCamp",
-    date: "2024",
-    link: "https://www.freecodecamp.org/certification/eadarak/javascript-algorithms-and-data-structures-v8",
-    skills: ["JavaScript ES6+", "Structures de données"],
-  },
-  {
-    title: "Introduction to Cybersecurity",
-    issuer: "Cisco Networking Academy",
-    date: "2024",
-    link: "https://www.credly.com/badges/78e553e0-2c65-4fe0-b855-cb2b61ed06de/linked_in_profile",
-    skills: ["Sécurité réseau", "Bonnes pratiques"],
-  },
+  // {
+  //   title: "Front End Development Libraries",
+  //   issuer: "freeCodeCamp",
+  //   date: "2025",
+  //   link: "https://www.freecodecamp.org/certification/eadarak/front-end-development-libraries",
+  //   skills: ["React", "Bootstrap"],
+  // },
+  // {
+  //   title: "JavaScript Algorithms and Data Structures",
+  //   issuer: "freeCodeCamp",
+  //   date: "2024",
+  //   link: "https://www.freecodecamp.org/certification/eadarak/javascript-algorithms-and-data-structures-v8",
+  //   skills: ["JavaScript ES6+", "Structures de données"],
+  // },
+  // {
+  //   title: "Introduction to Cybersecurity",
+  //   issuer: "Cisco Networking Academy",
+  //   date: "2024",
+  //   link: "https://www.credly.com/badges/78e553e0-2c65-4fe0-b855-cb2b61ed06de/linked_in_profile",
+  //   skills: ["Sécurité réseau", "Bonnes pratiques"],
+  // },
 ];
 
 // Fonction de tri (par année décroissante)
